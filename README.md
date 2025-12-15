@@ -15,4 +15,11 @@ Java 17, Spring Boot microservices, Kafka, Redis, PostgreSQL, and JWT security.
 
 ## Status
 - Phase 0: Project setup & standards (in progress)
-- Branch: develop branch created
+
+## Tracker
+- Code Formatting Rules (Locked):
+- IntelliJ default Java style
+- 4-space indentation
+- 120 char line length
+- No wildcard imports
+- Lombok used selectively

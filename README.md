@@ -15,3 +15,4 @@ Java 17, Spring Boot microservices, Kafka, Redis, PostgreSQL, and JWT security.
 
 ## Status
 - Phase 0: Project setup & standards (in progress)
+- Branch: develop branch created

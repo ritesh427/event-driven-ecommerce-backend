@@ -1,0 +1,9 @@
+     ___              __
+    / _ \___  ___ ___/ /__ ___  ___
+   / // / _ \/ -_) _  / -_) _ \/ -_)
+  /____/\___/\__/\_,_/\__/\___/\__/
+
+      M I C R O S E R V I C E S
+      - EVENT-DRIVEN ECOMMERCE -
+
+ :: Spring Boot ${spring-boot.formatted-version} ::
